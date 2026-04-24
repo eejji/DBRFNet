@@ -1,4 +1,4 @@
-# "ALightweight Dual-Stream Framework for Stress Classification Using Multi-Scale ECG Fusion(Coming soon)"
+# "A Lightweight Dual-Stream Framework for Stress Classification Using Multi-Scale ECG Fusion(Coming soon)"
 
 #### by- Jihun Lee
 
